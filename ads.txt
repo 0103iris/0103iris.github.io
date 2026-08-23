@@ -1,0 +1,2 @@
+# 장전 서약 (jangjeon-seoyak) — Google AdSense ads.txt
+google.com, pub-1770640235821624, DIRECT, f08c47fec0942fa0
